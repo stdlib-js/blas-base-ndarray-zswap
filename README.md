@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Interchange two one-dimensional complex double-precision floating-point ndarrays.
+> Interchange two one-dimensional double-precision complex floating-point ndarrays.
 
 <section class="intro">
 
@@ -71,7 +71,7 @@ var zswap = require( '@stdlib/blas-base-ndarray-zswap' );
 
 #### zswap( arrays )
 
-Interchanges two one-dimensional complex double-precision floating-point ndarrays.
+Interchanges two one-dimensional double-precision complex floating-point ndarrays.
 
 ```javascript
 var Complex128Vector = require( '@stdlib/ndarray-vector-complex128' );
