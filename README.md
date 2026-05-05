@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-zswap@deno/mod.js';
+import zswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-zswap@v0.0.0-deno/mod.js';
 ```
 
 #### zswap( arrays )
@@ -96,7 +96,7 @@ The function has the following parameters:
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import Complex128Vector from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector-complex128@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import zswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-zswap@deno/mod.js';
+import zswap from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-zswap@v0.0.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
